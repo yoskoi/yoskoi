@@ -23,7 +23,7 @@ Lors de mon stage, j'ai pu acquérir de nouvelles compétences et améliorer mes
 - **Mise en place des kpi et d'outils de suivi pour analyser et piloter les performances**
 - **Présentation des résultats d'analyse sous forme de comptes rendus, de rapports statistiques et de graphiques.**
 
-## Ces expériences m'ont permis de renforcer mes compétences et de les appliquer dans un contexte professionnel
+## Cette expérience m'a permis de renforcer mes compétences et de les appliquer dans un contexte professionnel
 
 
 

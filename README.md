@@ -6,8 +6,8 @@
 ## Mes projets réalisés
 - **Fashon_ethic** : [Rstudio Analyse de données](https://github.com/yoskoi/fashion_ethic.github.io)
 - **Creation d'une app web via R_Shiny** : [Visualisation](https://moctar.shinyapps.io/moctarhamidy/)
-- **Creation of a web app appliaction with shopper sentiments data** : [shopper app](https://github.com/kvnmits/Shopper-project)
-- **Webscrapping using python** :[Happyhours](https://github.com/kevinmitamona/Happyhours-project)
+- **Mon site Web** : [Portfolio](https://hamidy.000webhostapp.com/)
+- **Webscrapping via python** :[Projet_Scolaire](https://github.com/yoskoi/Web_Scraping)
   
 ## My courses at [AI School](https://www.intelligence-artificielle-school.com/?gad_source=1&gclid=CjwKCAiAzc2tBhA6EiwArv-i6XwkpvU_si8Yn0hhWdH2kiAUW3x4Ne77_lVRISqh2ZKlv5cyZFadgRoCPjoQAvD_BwE)
 - [R](https://app.datacamp.com/learn/courses/intermediate-r)

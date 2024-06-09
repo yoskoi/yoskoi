@@ -1,4 +1,4 @@
-# Salue et Bienvenue sur mon Profi.👋
+# Salue et Bienvenue sur mon Profil.👋
 
 
 Étudiant en master à l'IA School, je suis une formation en Data & Intelligence Artificielle. Passionné par l'analyse et l'automatisation des données, j'ai réalisé plusieurs projets concrets qui m'ont permis de mettre en pratique mes compétences en analyse de données. Je vous remercie par avance de l'attention portée à mon profil.

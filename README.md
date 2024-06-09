@@ -5,7 +5,7 @@
 
 ## Mes projets réalisés
 - **Fashon_ethic** : [Rstudio Analyse de données](https://github.com/yoskoi/fashion_ethic.github.io)
-- **Creation of a web app application with crime data** : [crime app](https://moctar.shinyapps.io/moctarhamidy/)
+- **Creation d'une app web via R_Shiny** : [Visualisation](https://moctar.shinyapps.io/moctarhamidy/)
 - **Creation of a web app appliaction with shopper sentiments data** : [shopper app](https://github.com/kvnmits/Shopper-project)
 - **Webscrapping using python** :[Happyhours](https://github.com/kevinmitamona/Happyhours-project)
   

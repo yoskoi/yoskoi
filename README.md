@@ -15,14 +15,16 @@
 - [Python - Intermidiate](https://app.datacamp.com/learn/courses/intermediate-python)
 - [Github learning ](https://github.com/universdesdonnees/Git-Introduction)
 
-## My missions at [H.S.P Hotel service Plus](https://hsp-idf.com/)
-I'm currently working as data analyst and performing differents tasks such as:
-- **Analyzing digital solutions available in Airbus**
-- **Defining the most appropriate platform to be used**
-- **Developing data visualization (dashboard)using necessary coding languages**
-- **User training**
-- **Identifying new digital opportunities to improve the business & processes**
-- **Promoting digital mindset within the SBCA organization**
+## Mes missions à [H.S.P Hotel service Plus](https://hsp-idf.com/)
+Lors de mon stage, j'ai pu acquérir de nouvelles compétences et améliorer mes techniques d'analyse de donnée:
+- **Conception de Dashboard via Power BI et Excel**
+- **Analyse Graphique et émission des hypothèses**
+- **Gestion des bases de données avec SQL basée sur Azure Data Studio**
+- **Mise en place des kpi et d'outils de suivi pour analyser et piloter les performances**
+- **Présentation des résultats d'analyse sous forme de comptes rendus, de rapports statistiques et de graphiques.**
+
+## Ces expériences m'ont permis de renforcer mes compétences et de les appliquer dans un contexte professionnel
+
 
 
 ## Contacts

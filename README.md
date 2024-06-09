@@ -29,8 +29,7 @@ I'm currently working as data analyst and performing differents tasks such as:
 
 ## Contacts
  
-- [LinkedIn](https://www.linkedin.com/in/kevin-mitamona/) 
-- [Email](kvnmitamona@gmail.com)
+
 
 
 

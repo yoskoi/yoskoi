@@ -1,13 +1,11 @@
-# Hi everyone👋
+# Salue et Bienvenue sur mon Profi.👋
 
 
-I'm a Master I student in data and artificial intelligence project management, with a passion for IT development and data processing.
-I would like to progress in this field in order to increase my skills.
-My main skills include my ability to adapt and my rigour in the face of change.
+Étudiant en master à l'IA School, je suis une formation en Data & Intelligence Artificielle. Passionné par l'analyse et l'automatisation des données, j'ai réalisé plusieurs projets concrets qui m'ont permis de mettre en pratique mes compétences en analyse de données. Je vous remercie par avance de l'attention portée à mon profil.
 
-## My achieved projects
-- **Spotify data analysis** : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
-- **Creation of a web app application with crime data** : [crime app](https://github.com/CeliaMarty/Projet-R-Shiny-)
+## Mes projets réalisés
+- **Fashon_ethic** : [Rstudio Analyse de données](https://github.com/yoskoi/fashion_ethic.github.io)
+- **Creation of a web app application with crime data** : [crime app](https://moctar.shinyapps.io/moctarhamidy/)
 - **Creation of a web app appliaction with shopper sentiments data** : [shopper app](https://github.com/kvnmits/Shopper-project)
 - **Webscrapping using python** :[Happyhours](https://github.com/kevinmitamona/Happyhours-project)
   

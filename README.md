@@ -9,7 +9,7 @@
 - **Analyse de donnée** : [Manipulation](https://github.com/yoskoi/Analyse_de_donn-es)
 - **Webscrapping via python** :[Projet_Scolaire](https://github.com/yoskoi/Web_Scraping)
   
-## My courses at [AI School](https://www.intelligence-artificielle-school.com/?gad_source=1&gclid=CjwKCAiAzc2tBhA6EiwArv-i6XwkpvU_si8Yn0hhWdH2kiAUW3x4Ne77_lVRISqh2ZKlv5cyZFadgRoCPjoQAvD_BwE)
+## Etudiant à [AI School](https://www.intelligence-artificielle-school.com/?gad_source=1&gclid=CjwKCAiAzc2tBhA6EiwArv-i6XwkpvU_si8Yn0hhWdH2kiAUW3x4Ne77_lVRISqh2ZKlv5cyZFadgRoCPjoQAvD_BwE)
 - [R](https://app.datacamp.com/learn/courses/intermediate-r)
 - [R-shiny](https://github.com/universdesdonnees/R-Shiny)
 - [Python - Intermidiate](https://app.datacamp.com/learn/courses/intermediate-python)
